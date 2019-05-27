@@ -1,0 +1,22 @@
+C:\Users\raya\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp2.1\ConsoleApp3.deps.json
+C:\Users\raya\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp2.1\ConsoleApp3.runtimeconfig.json
+C:\Users\raya\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp2.1\ConsoleApp3.runtimeconfig.dev.json
+C:\Users\raya\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp2.1\ConsoleApp3.dll
+C:\Users\raya\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp2.1\ConsoleApp3.pdb
+C:\Users\raya\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp2.1\ConsoleApp3.csprojAssemblyReference.cache
+C:\Users\raya\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp2.1\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\raya\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp2.1\ConsoleApp3.AssemblyInfoInputs.cache
+C:\Users\raya\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp2.1\ConsoleApp3.AssemblyInfo.cs
+C:\Users\raya\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp2.1\ConsoleApp3.dll
+C:\Users\raya\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp2.1\ConsoleApp3.pdb
+C:\Users\raya\Desktop\github\07_static class & Inheritance\04_Inheritance Food - Pizza\ConsoleApp3\bin\Debug\netcoreapp2.1\ConsoleApp3.deps.json
+C:\Users\raya\Desktop\github\07_static class & Inheritance\04_Inheritance Food - Pizza\ConsoleApp3\bin\Debug\netcoreapp2.1\ConsoleApp3.runtimeconfig.json
+C:\Users\raya\Desktop\github\07_static class & Inheritance\04_Inheritance Food - Pizza\ConsoleApp3\bin\Debug\netcoreapp2.1\ConsoleApp3.runtimeconfig.dev.json
+C:\Users\raya\Desktop\github\07_static class & Inheritance\04_Inheritance Food - Pizza\ConsoleApp3\bin\Debug\netcoreapp2.1\ConsoleApp3.dll
+C:\Users\raya\Desktop\github\07_static class & Inheritance\04_Inheritance Food - Pizza\ConsoleApp3\bin\Debug\netcoreapp2.1\ConsoleApp3.pdb
+C:\Users\raya\Desktop\github\07_static class & Inheritance\04_Inheritance Food - Pizza\ConsoleApp3\obj\Debug\netcoreapp2.1\ConsoleApp3.csprojAssemblyReference.cache
+C:\Users\raya\Desktop\github\07_static class & Inheritance\04_Inheritance Food - Pizza\ConsoleApp3\obj\Debug\netcoreapp2.1\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\raya\Desktop\github\07_static class & Inheritance\04_Inheritance Food - Pizza\ConsoleApp3\obj\Debug\netcoreapp2.1\ConsoleApp3.AssemblyInfoInputs.cache
+C:\Users\raya\Desktop\github\07_static class & Inheritance\04_Inheritance Food - Pizza\ConsoleApp3\obj\Debug\netcoreapp2.1\ConsoleApp3.AssemblyInfo.cs
+C:\Users\raya\Desktop\github\07_static class & Inheritance\04_Inheritance Food - Pizza\ConsoleApp3\obj\Debug\netcoreapp2.1\ConsoleApp3.dll
+C:\Users\raya\Desktop\github\07_static class & Inheritance\04_Inheritance Food - Pizza\ConsoleApp3\obj\Debug\netcoreapp2.1\ConsoleApp3.pdb

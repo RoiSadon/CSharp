@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\02_homework_Car\02_homework_Car\bin\Debug\netcoreapp2.1\02_homework_Car.deps.json
+C:\Users\user\source\repos\02_homework_Car\02_homework_Car\bin\Debug\netcoreapp2.1\02_homework_Car.runtimeconfig.json
+C:\Users\user\source\repos\02_homework_Car\02_homework_Car\bin\Debug\netcoreapp2.1\02_homework_Car.runtimeconfig.dev.json
+C:\Users\user\source\repos\02_homework_Car\02_homework_Car\bin\Debug\netcoreapp2.1\02_homework_Car.dll
+C:\Users\user\source\repos\02_homework_Car\02_homework_Car\bin\Debug\netcoreapp2.1\02_homework_Car.pdb
+C:\Users\user\source\repos\02_homework_Car\02_homework_Car\obj\Debug\netcoreapp2.1\02_homework_Car.csprojAssemblyReference.cache
+C:\Users\user\source\repos\02_homework_Car\02_homework_Car\obj\Debug\netcoreapp2.1\02_homework_Car.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\02_homework_Car\02_homework_Car\obj\Debug\netcoreapp2.1\02_homework_Car.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\02_homework_Car\02_homework_Car\obj\Debug\netcoreapp2.1\02_homework_Car.AssemblyInfo.cs
+C:\Users\user\source\repos\02_homework_Car\02_homework_Car\obj\Debug\netcoreapp2.1\02_homework_Car.dll
+C:\Users\user\source\repos\02_homework_Car\02_homework_Car\obj\Debug\netcoreapp2.1\02_homework_Car.pdb
